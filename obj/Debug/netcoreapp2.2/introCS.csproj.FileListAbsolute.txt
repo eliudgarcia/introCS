@@ -1,0 +1,10 @@
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\bin\Debug\netcoreapp2.2\introCS.deps.json
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\bin\Debug\netcoreapp2.2\introCS.runtimeconfig.json
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\bin\Debug\netcoreapp2.2\introCS.runtimeconfig.dev.json
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\bin\Debug\netcoreapp2.2\introCS.dll
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\bin\Debug\netcoreapp2.2\introCS.pdb
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\obj\Debug\netcoreapp2.2\introCS.csprojAssemblyReference.cache
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\obj\Debug\netcoreapp2.2\introCS.AssemblyInfoInputs.cache
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\obj\Debug\netcoreapp2.2\introCS.AssemblyInfo.cs
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\obj\Debug\netcoreapp2.2\introCS.dll
+C:\Users\oscar.recio\Documents\GALVANIZE\Semana 4\ProyectoEliud\introCS\obj\Debug\netcoreapp2.2\introCS.pdb
